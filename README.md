@@ -12,5 +12,5 @@ PyAflow is a user-friendly Python interface to the Aflow API, designed to simpli
 - [ ] Consider adding an optional progress bar
 - [ ] Include Pip support
 - [ ] Enhance the README
-- [ ] Provide comprehensive usage examples
+- [ ] Provide usage examples
 - [ ] Add unit tests
